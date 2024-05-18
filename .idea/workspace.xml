@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f744d093-acb9-4e12-8205-9b21cf03850f" name="Changes" comment="Изменила код в соответствии с PEP8 плюс gihab">
-      <change afterPath="$PROJECT_DIR$/hw4.py" afterDir="false" />
+    <list default="true" id="f744d093-acb9-4e12-8205-9b21cf03850f" name="Changes" comment="Цикл for">
+      <change afterPath="$PROJECT_DIR$/hw5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,7 @@
     "Python.hw1.executor": "Run",
     "Python.hw2.executor": "Run",
     "Python.hw4.executor": "Run",
+    "Python.hw5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true"
@@ -94,13 +95,22 @@
       <option name="project" value="LOCAL" />
       <updated>1715602555535</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Цикл for">
+      <option name="closed" value="true" />
+      <created>1716029779709</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716029779710</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Модуль 2, задание 2" />
     <MESSAGE value="Изменила код в соответствии с PEP8" />
     <MESSAGE value="Изменила код в соответствии с PEP8 плюс gihab" />
-    <option name="LAST_COMMIT_MESSAGE" value="Изменила код в соответствии с PEP8 плюс gihab" />
+    <MESSAGE value="Цикл for" />
+    <option name="LAST_COMMIT_MESSAGE" value="Цикл for" />
   </component>
 </project>
