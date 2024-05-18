@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f744d093-acb9-4e12-8205-9b21cf03850f" name="Changes" comment="Цикл for">
-      <change afterPath="$PROJECT_DIR$/hw5.py" afterDir="false" />
+    <list default="true" id="f744d093-acb9-4e12-8205-9b21cf03850f" name="Changes" comment="Функции. Функции с параметром.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716029779710</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Функции. Функции с параметром.">
+      <option name="closed" value="true" />
+      <created>1716036111586</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716036111586</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -111,6 +119,7 @@
     <MESSAGE value="Изменила код в соответствии с PEP8" />
     <MESSAGE value="Изменила код в соответствии с PEP8 плюс gihab" />
     <MESSAGE value="Цикл for" />
-    <option name="LAST_COMMIT_MESSAGE" value="Цикл for" />
+    <MESSAGE value="Функции. Функции с параметром." />
+    <option name="LAST_COMMIT_MESSAGE" value="Функции. Функции с параметром." />
   </component>
 </project>
